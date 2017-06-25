@@ -1,4 +1,3 @@
-
 import urllib
 
 epnum = raw_input('Episode Number? ')
